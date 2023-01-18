@@ -13,6 +13,7 @@
 - Challenges: 
     - Initial block download(IBD) time, disk-space and compute resources for bitcoin-core
     - Channel initialization for lightning(#2 below)
+    - Managing software updates and giving users complete control to select versions and settings they prefer 
 - References:
     - [regtest w docker tutorial](https://www.willianantunes.com/blog/2022/04/bitcoin-node-with-regtest-mode-using-docker/) | [learning bitcoin from cli](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
     - [installing core-lightning](https://lightning.readthedocs.io/INSTALL.html)

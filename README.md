@@ -1,7 +1,7 @@
-#### xvrn project motivation:
+### xvrn
 
 
-**Main objective: Utilize existing FOSS and add minimal tooling around it for effective usage and adoption of Bitcoin and it's adjacent software stack which in turn helps towards the goal of censorship-resistant consumer payments.**
+**Motivation: Utilize existing FOSS and add minimal tooling around it for effective usage and adoption of Bitcoin and it's adjacent software stack which in turn helps towards the goal of censorship-resistant consumer payments.**
 
 ---
 #### 1. Running required software in a trustless and easy way:

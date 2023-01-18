@@ -54,7 +54,7 @@
     - Standardization of exports
 - References:
     - [BIP39 original discussion](https://github.com/bitcoin/bips/pull/17)
-    - [Sparrow wallet](https://sparrowwallet.com/) | [Coldcard hw wallet](https://blog.coinkite.com/understanding-mk4-security-model/) | [SeedSigner(DIY)](https://seedsigner.com/)
+    - [Sparrow wallet](https://sparrowwallet.com/) | [Coldcard hw wallet](https://blog.coinkite.com/understanding-mk4-security-model/) | [SeedSigner(DIY)](https://seedsigner.com/) | [krux(DIY)](https://github.com/selfcustody/krux)
     - Vaults: [Revault](https://revault.dev/#howItWorks) | [OP_VAULT](https://github.com/bitcoin/bitcoin/pull/26857)
     - Key management in other protocols: [lightning: vls](https://vls.tech/) | [nostr](https://bitcoinmagazine.com/technical/solving-nostr-key-management-issues)
     - A passphrase selection [experiment](https://github.com/ns-xvrn/guided_passphrase)

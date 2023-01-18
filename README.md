@@ -8,7 +8,7 @@
 - Required software: [bitcoin-core](https://bitcoin.org/en/download) and [core-lightning](https://corelightning.org/)
 - Supplementary software: [BTCPay](https://btcpayserver.org/), [RTL](https://www.ridethelightning.info/), [core-ln plugins](https://lightning.readthedocs.io/PLUGINS.html) and [LNBits](https://lnbits.com/)
 - Software modes: allow regtest, testnet, mainnet, pruned, pruned with snapshot
-- Status: [initial stages](https://github.com/PradyumnaKrishna/bitnode/issues)
+- Status: [initial stages](https://github.com/PradyumnaKrishna/bitnode/issues/1)
 - Potential add-ons: [nostr relays](https://www.nostr.net/), [Caddy](https://caddyserver.com/)(for reverse proxy needs)
 - Challenges: 
     - Initial block download(IBD) time, disk-space and compute resources for bitcoin-core

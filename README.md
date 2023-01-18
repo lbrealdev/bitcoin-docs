@@ -42,7 +42,7 @@
 ---
 
 #### 3. Simplified key management/security guides:
-- Create simplified guide using existing best practices for key management and security(for [bip39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki), passphrases, psbt(offline signing), [multi-sig](https://bitcoiner.guide/multisig/backup/), hw and sw wallets)
+- Create simplified guide using existing best practices for key management and security([bip39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki), [passphrases](https://unchained.com/blog/bitcoin-singlesig-passphrase-vs-multisig/), [psbt](https://river.com/learn/what-are-partially-signed-bitcoin-transactions-psbts/)(offline signing), [multi-sig](https://bitcoiner.guide/multisig/backup/), hw and sw wallets)
 - Status: TBD
 - Challenges: 
     - Securing private keys: avoiding inability to access or keys getting stolen

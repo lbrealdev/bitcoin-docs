@@ -42,16 +42,18 @@
 ---
 
 #### 3. Simplified key management/security guides:
-- Create simplified guide using existing best practices for key management and security(for [bip39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki), passphrases, psbt(offline signing), [multi-sig](https://en.bitcoin.it/wiki/Multi-signature), hw and sw wallets)
+- Create simplified guide using existing best practices for key management and security(for [bip39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki), passphrases, psbt(offline signing), [multi-sig](https://bitcoiner.guide/multisig/backup/), hw and sw wallets)
 - Status: TBD
 - Challenges: 
-    - Loss of private keys: inability to access or keys getting stolen
+    - Securing private keys: avoiding inability to access or keys getting stolen
     - Safe and validated backups
-    - Easy to way to manage many keys and backups in case of a multi-sig setup
+    - Proper key management of all keys in case of a multi-sig setup
     - Using high entropy passphrases on single-sig setups(if applied out of need) and storing them safely
+    - Standardization of exports
 - References:
     - [BIP39 original discussion](https://github.com/bitcoin/bips/pull/17)
     - [Sparrow wallet](https://sparrowwallet.com/) | [Coldcard hw wallet](https://blog.coinkite.com/understanding-mk4-security-model/) | [SeedSigner(DIY)](https://seedsigner.com/)
     - Vaults: [Revault](https://revault.dev/#howItWorks) | [OP_VAULT](https://github.com/bitcoin/bitcoin/pull/26857)
     - Key management in other protocols: [lightning: vls](https://vls.tech/) | [nostr](https://bitcoinmagazine.com/technical/solving-nostr-key-management-issues)
     - A passphrase selection [experiment](https://github.com/ns-xvrn/guided_passphrase)
+    - Standardization: [BIP329](https://github.com/bitcoin/bips/blob/master/bip-0329.mediawiki)

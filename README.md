@@ -45,6 +45,3 @@
     - Vaults: [Revault](https://revault.dev/#howItWorks) | [OP_VAULT](https://github.com/bitcoin/bitcoin/pull/26857)
     - Key management in other protocols: [lightning: vls](https://vls.tech/) | [nostr](https://bitcoinmagazine.com/technical/solving-nostr-key-management-issues)
     - A passphrase selection [experiment](https://github.com/ns-xvrn/guided_passphrase)
-    
-
----

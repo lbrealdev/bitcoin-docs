@@ -15,10 +15,13 @@
     - Channel initialization for lightning(#2 below)
 - References:
     - [regtest w docker tutorial](https://www.willianantunes.com/blog/2022/04/bitcoin-node-with-regtest-mode-using-docker/) | [learning bitcoin from cli](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
-    - pruned snapshot: [btcpay fastsync](https://docs.btcpayserver.org/Docker/fastsync/) | [specter snapshot](https://prunednode.today/) | [eznode](https://ezno.de/)
-    - [pruning](https://bitcoin.stackexchange.com/questions/92769/bitcoin-full-node-how-to-run-a-pruned-node-explaining-pruning) | [assumeutxo](https://bitcoinops.org/en/topics/assumeutxo/)
+    - [installing core-lightning](https://lightning.readthedocs.io/INSTALL.html)
+    - [pruned](https://bitcoin.stackexchange.com/questions/92769/bitcoin-full-node-how-to-run-a-pruned-node-explaining-pruning) snapshot: [btcpay fastsync](https://docs.btcpayserver.org/Docker/fastsync/) | [specter snapshot](https://prunednode.today/) | [eznode](https://ezno.de/)
+    - [assumeutxo](https://bitcoinops.org/en/topics/assumeutxo/)
     - [bitcoin-core guix](https://github.com/fanquake/core-review/blob/master/guix/README.md)
     - [building bitcoin for android](https://rusnak.io/how-to-build-bitcoin-for-android/)
+    - [Umbrel](https://umbrel.com/) | [Start9](https://start9.com/) | [mynode](https://mynodebtc.com/) | [nodl](https://www.nodl.eu/)
+    
 
 ---
 #### 2. Lightning network software:
@@ -26,7 +29,9 @@
 - Potential add-ons: self-hosted publishing software(lightweight LN native micro-blog, newsletters etc.) and applications of nostr protocol for this
 - Status: TBD
 - References:
+    - [Understanding lightning network](https://bitcoinmagazine.com/technical/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791)
     - [LSP](https://medium.com/breez-technology/introducing-lightning-service-providers-fe9fb1665d5f)
+    - [Peerswap](https://www.peerswap.dev/)
 
 
 ---

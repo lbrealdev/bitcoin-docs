@@ -28,19 +28,29 @@
 - Create simplified solution for initializing channels and liquidity
 - Potential add-ons: self-hosted publishing software(lightweight LN native micro-blog, newsletters etc.) and applications of nostr protocol for this
 - Status: TBD
+- Challenges: 
+    - Setting up initial channels and liquidity
+    - Channel rebalancing management
+    - Avoiding centralized services for swaps
 - References:
     - [Understanding lightning network](https://bitcoinmagazine.com/technical/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791)
     - [LSP](https://medium.com/breez-technology/introducing-lightning-service-providers-fe9fb1665d5f)
     - [Peerswap](https://www.peerswap.dev/)
+    - [Splicing](https://thebitcoinmanual.com/articles/splicing-lightning-network/)
 
 
 ---
 
 #### 3. Simplified key management/security guides:
-- Create simplified guide using existing best practices for key management and security(for bip39, passphrases, psbt(offline signing), multi-sig, hw and sw wallets)
+- Create simplified guide using existing best practices for key management and security(for [bip39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki), passphrases, psbt(offline signing), [multi-sig](https://en.bitcoin.it/wiki/Multi-signature), hw and sw wallets)
 - Status: TBD
+- Challenges: 
+    - Loss of private keys: inability to access or keys getting stolen
+    - Safe and validated backups
+    - Easy to way to manage many keys and backups in case of a multi-sig setup
+    - Using high entropy passphrases on single-sig setups and storing them safely
 - References:
-    - [BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki) | [BIP39 original discussion](https://github.com/bitcoin/bips/pull/17)
+    - [BIP39 original discussion](https://github.com/bitcoin/bips/pull/17)
     - [Sparrow wallet](https://sparrowwallet.com/) | [Coldcard hw wallet](https://blog.coinkite.com/understanding-mk4-security-model/) | [SeedSigner(DIY)](https://seedsigner.com/)
     - Vaults: [Revault](https://revault.dev/#howItWorks) | [OP_VAULT](https://github.com/bitcoin/bitcoin/pull/26857)
     - Key management in other protocols: [lightning: vls](https://vls.tech/) | [nostr](https://bitcoinmagazine.com/technical/solving-nostr-key-management-issues)

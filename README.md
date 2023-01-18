@@ -48,7 +48,7 @@
     - Loss of private keys: inability to access or keys getting stolen
     - Safe and validated backups
     - Easy to way to manage many keys and backups in case of a multi-sig setup
-    - Using high entropy passphrases on single-sig setups and storing them safely
+    - Using high entropy passphrases on single-sig setups(if applied out of need) and storing them safely
 - References:
     - [BIP39 original discussion](https://github.com/bitcoin/bips/pull/17)
     - [Sparrow wallet](https://sparrowwallet.com/) | [Coldcard hw wallet](https://blog.coinkite.com/understanding-mk4-security-model/) | [SeedSigner(DIY)](https://seedsigner.com/)

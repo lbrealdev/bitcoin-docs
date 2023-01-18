@@ -1,0 +1,45 @@
+#### xvrn project motivation:
+
+
+**Main objective: Utilize existing FOSS and add minimal tooling around it for effective usage and adoption of Bitcoin and it's adjacent software stack which in turn helps towards the goal of censorship-resistant consumer payments.**
+
+---
+#### 1. Running required software in a trustless and easy way:
+- Required software: [bitcoin-core](https://bitcoin.org/en/download) and [core-lightning](https://corelightning.org/)
+- Supplementary software: [BTCPay](https://btcpayserver.org/), [RTL](https://www.ridethelightning.info/), [core-ln plugins](https://lightning.readthedocs.io/PLUGINS.html) and [LNBits](https://lnbits.com/)
+- Software modes: allow regtest, testnet, mainnet, pruned, pruned with snapshot
+- Status: [initial stages](https://github.com/PradyumnaKrishna/bitnode/issues)
+- Potential add-ons: [nostr relays](https://www.nostr.net/), [Caddy](https://caddyserver.com/)(for reverse proxy needs)
+- Challenges: 
+    - Initial block download(IBD) time, disk-space and compute resources for bitcoin-core
+    - Channel initialization for lightning(#2 below)
+- References:
+    - [regtest w docker tutorial](https://www.willianantunes.com/blog/2022/04/bitcoin-node-with-regtest-mode-using-docker/) | [learning bitcoin from cli](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
+    - pruned snapshot: [btcpay fastsync](https://docs.btcpayserver.org/Docker/fastsync/) | [specter snapshot](https://prunednode.today/) | [eznode](https://ezno.de/)
+    - [pruning](https://bitcoin.stackexchange.com/questions/92769/bitcoin-full-node-how-to-run-a-pruned-node-explaining-pruning) | [assumeutxo](https://bitcoinops.org/en/topics/assumeutxo/)
+    - [bitcoin-core guix](https://github.com/fanquake/core-review/blob/master/guix/README.md)
+    - [building bitcoin for android](https://rusnak.io/how-to-build-bitcoin-for-android/)
+
+---
+#### 2. Lightning network software:
+- Create simplified solution for initializing channels and liquidity
+- Potential add-ons: self-hosted publishing software(lightweight LN native micro-blog, newsletters etc.) and applications of nostr protocol for this
+- Status: TBD
+- References:
+    - [LSP](https://medium.com/breez-technology/introducing-lightning-service-providers-fe9fb1665d5f)
+
+
+---
+
+#### 3. Simplified key management/security guides:
+- Create simplified guide using existing best practices for key management and security(for bip39, passphrases, psbt(offline signing), multi-sig, hw and sw wallets)
+- Status: TBD
+- References:
+    - [BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki) | [BIP39 original discussion](https://github.com/bitcoin/bips/pull/17)
+    - [Sparrow wallet](https://sparrowwallet.com/) | [Coldcard hw wallet](https://blog.coinkite.com/understanding-mk4-security-model/) | [SeedSigner(DIY)](https://seedsigner.com/)
+    - Vaults: [Revault](https://revault.dev/#howItWorks) | [OP_VAULT](https://github.com/bitcoin/bitcoin/pull/26857)
+    - Key management in other protocols: [lightning: vls](https://vls.tech/) | [nostr](https://bitcoinmagazine.com/technical/solving-nostr-key-management-issues)
+    - A passphrase selection [experiment](https://github.com/ns-xvrn/guided_passphrase)
+    
+
+---

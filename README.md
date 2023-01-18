@@ -35,6 +35,7 @@
     - Avoiding centralized services for swaps
 - References:
     - [Understanding lightning network](https://bitcoinmagazine.com/technical/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791)
+    - [Using LDK to build an LN node](https://lightningdevkit.org/introduction/)
     - [LSP](https://medium.com/breez-technology/introducing-lightning-service-providers-fe9fb1665d5f)
     - [Peerswap](https://www.peerswap.dev/)
     - [Splicing](https://thebitcoinmanual.com/articles/splicing-lightning-network/)

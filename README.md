@@ -21,7 +21,7 @@
     - [assumeutxo](https://bitcoinops.org/en/topics/assumeutxo/)
     - [bitcoin-core guix](https://github.com/fanquake/core-review/blob/master/guix/README.md)
     - [building bitcoin for android](https://rusnak.io/how-to-build-bitcoin-for-android/)
-    - [Umbrel](https://umbrel.com/) | [Start9](https://start9.com/) | [mynode](https://mynodebtc.com/) | [nodl](https://www.nodl.eu/)
+    - [Umbrel](https://umbrel.com/) | [Start9](https://start9.com/) | [mynode](https://mynodebtc.com/) | [nodl](https://www.nodl.eu/) | [citadel](https://runcitadel.space/) | [raspiblitz](https://raspiblitz.org/)
     
 
 ---

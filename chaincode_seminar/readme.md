@@ -1,8 +1,4 @@
-
-- Bitcoin Protocol Development: [BPD](/chaincode_seminar/bpd)
-- Lightning Protocol Developmnet: [LPD](/chaincode_seminar/lpd)
-
-Additional resources:
+#### Additional resources:
 
 - [bitcoin tx tutorial](https://github.com/chaincodelabs/bitcoin-tx-tutorial)
 - [on-boarding to bitcoin-core](https://github.com/chaincodelabs/onboarding-to-bitcoin-core)

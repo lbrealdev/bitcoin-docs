@@ -9,7 +9,7 @@
 - [bitcoin dev resources](https://github.com/lucasdcf/bitcoin-dev-resources#bitcoin-dev-blogs)
 - [technical bitcoin search](https://bitcoinsearch.xyz/)
 - [building on lightning](https://bmancini55.github.io/building-lightning/intro.html)
-- [LSP spec](https://github.com/BitcoinAndLightningLayerSpecs/lsp)r
+- [LSP spec](https://github.com/BitcoinAndLightningLayerSpecs/lsp)
 
 #### Misc resources:
 - [cryptographic best practices](https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a)

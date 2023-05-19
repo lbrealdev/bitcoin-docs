@@ -1,4 +1,4 @@
-- Seminar [gitbook]()
+- Seminar [gitbook](https://chaincode.gitbook.io/seminars/)
 
 #### Additional resources:
 

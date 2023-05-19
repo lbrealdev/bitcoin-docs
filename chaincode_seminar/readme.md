@@ -1,6 +1,6 @@
 
-- Bitcoin Protocol Development: [BPD](/bpd)
-- Lightning Protocol Developmnet: [LPD](/lpd)
+- Bitcoin Protocol Development: [BPD](/chaincode_seminar/bpd)
+- Lightning Protocol Developmnet: [LPD](/chaincode_seminar/lpd)
 
 Additional resources:
 

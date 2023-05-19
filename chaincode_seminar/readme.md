@@ -1,3 +1,5 @@
+- Seminar [gitbook]()
+
 #### Additional resources:
 
 - [bitcoin tx tutorial](https://github.com/chaincodelabs/bitcoin-tx-tutorial)

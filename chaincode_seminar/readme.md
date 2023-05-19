@@ -16,7 +16,7 @@
 - [passphrase wordlists](https://gist.github.com/atoponce/95c4f36f2bc12ec13242a3ccc55023af)
 
 
-#### cs tutorials:
+#### Comp Sci tutorials:
 - [teach yourself computer science](https://teachyourselfcs.com/2016/#programming)
 - [self taught computer science](https://github.com/ossu/computer-science)
 - [beej's guide to c](https://beej.us/guide/bgc/html/split/setjmp-longjmp.html#the-values-of-local-variables)

@@ -4,11 +4,11 @@
 - [on-boarding to bitcoin-core](https://github.com/chaincodelabs/onboarding-to-bitcoin-core)
 - [bitcoin development philosophy](https://github.com/bitcoin-dev-philosophy/btcphilosophy)
 - [learn bitcoin from the command line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
+- [programming bitcoin excercises](https://github.com/jimmysong/programmingbitcoin)
 - [bitcoin dev resources](https://github.com/lucasdcf/bitcoin-dev-resources#bitcoin-dev-blogs)
 - [technical bitcoin search](https://bitcoinsearch.xyz/)
 - [building on lightning](https://bmancini55.github.io/building-lightning/intro.html)
 - [LSP spec](https://github.com/BitcoinAndLightningLayerSpecs/lsp)
-- [the genesis book](https://drive.google.com/drive/folders/1j7PDr7uTNsJs3CmCmtB0vLjmkKz4GOnQ)
 
 
 #### Computer Science:
